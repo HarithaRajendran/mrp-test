@@ -1,0 +1,32 @@
+.error-message {
+    color: red;
+    margin-left: 14px;
+}
+
+input{
+    border: 1px solid black;
+    color: black;
+}
+
+.header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.selectpicker{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 4px;
+    height: 38px;
+    width: inherit;
+}
+
+.date-border{
+    display: flex;
+    border: 1px solid black;
+    
+}
+
+.date-style{
+    border:none;
+}
